@@ -1,3 +1,5 @@
+<img src="profile.jpg" alt="Photo of Serena Wu" width="180" style="border-radius: 50%; margin-bottom: 1em;">
+
 # 👋 Welcome!
 
 I'm Serena (Luyao) Wu — passionate about harnessing data, code, and business insight to create impactful, scalable solutions.
