@@ -2,7 +2,7 @@
 
 I'm Serena (Luyao) Wu — passionate about harnessing data, code, and business insight to create impactful, scalable solutions.
 
-Driven by the intersection of **technology and human behavior**, I bring together a background in **marketing, computer science, and data analytics** to uncover patterns, build intelligent systems, and make data-driven decisions that matter.
+Driven by the intersection of **technology and marketing**, I bring together a background in **computer science, and data analytics** to uncover patterns, build intelligent systems, and make data-driven decisions that matter.
 
 🔍 Former **Data Analyst at Baozun Inc. (Nasdaq: BZUN)**, where I developed predictive models, dynamic pricing systems, and advanced customer segmentation strategies that led to measurable business impact.
 
