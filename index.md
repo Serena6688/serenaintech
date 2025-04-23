@@ -18,4 +18,16 @@ Driven by the intersection of **technology and marketing**, I bring together a b
 Whether it's pricing optimization, customer targeting, or turning raw data into real results — I love building solutions at the edge of business and technology.
 
 ---
-📍 New York, NY | 📧 [luyaowutech@gmail.com](mailto:luyaowutech@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/luyaowu001)
+
+## 🧠 Skills
+
+- **Languages:** Java, Python, C/C++, SQL, R  
+- **Tech Stack:** Tableau, Power BI, MongoDB, Excel, Spark, AWS, Alibaba Cloud  
+- **Toolkits:** NumPy, scikit-learn, PyTorch, Quick BI, MaxCompute  
+- **Focus Areas:** Predictive modeling, dynamic pricing, A/B testing, customer segmentation
+
+---
+
+📍 New York, NY  
+📧 [luyaowutech@gmail.com](mailto:luyaowutech@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/luyaowu001)  
