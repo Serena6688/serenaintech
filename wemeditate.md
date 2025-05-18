@@ -37,7 +37,7 @@ We are planning to expand WeMeditate with features like:
 
 Here's a video about my project:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kTgs8VgtaGw&t=3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/kTgs8VgtaGw?si=QKxz6hEFBBI82Pj_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## 🧑‍🤝‍🧑 Community-Driven Growth
