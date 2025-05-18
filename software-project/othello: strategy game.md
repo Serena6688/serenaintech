@@ -3,6 +3,7 @@ title: Othello Game
 parent: Software Projects
 layout: default
 nav_order: 1
+permalink: /software-project/othello/
 ---
 
 # ♟ Othello: AI Strategy Game

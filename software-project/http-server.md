@@ -2,6 +2,7 @@ title: http server
 parent: Software Projects
 layout: default
 nav_order: 2
+permalink: /software-project/http-server/
 ---
 
 # 🌐 Multithreaded HTTP Server
