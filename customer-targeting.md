@@ -49,7 +49,7 @@ Developed data-driven targeting strategies by analyzing e-commerce user profile 
 
 ---
 
-## 🖼️ Additional Visuals
+## 🖼️ Visuals & Deep-Dive Slides
 ![Slide 1](/assets/images/Data2-1.png)
 ![Slide 2](/assets/images/Data2-2.png)
 ![Slide 3](/assets/images/Data2-3.png)
