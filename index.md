@@ -1,6 +1,6 @@
 ---
 title: Home
-nav_order: 1
+layout: home
 ---
 
 # About Me
@@ -13,4 +13,4 @@ Welcome to my website! I'm [Your Name], a [Your Profession].
 
 You can download my resume here:
 
-[Link to your resume file]  (e.g., `[Download Resume](assets/resume.pdf)`)
+[Download Resume](assets/resume.pdf)
