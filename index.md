@@ -24,3 +24,4 @@ You can download my resume here:
 
 - [Data Projects](./data-projects)
 - [Software Projects](./software-projects)
+- ![Test Image](/assets/images/Data1-1.png)
