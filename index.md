@@ -6,7 +6,7 @@ nav_order: 1
 
 # 👋 Welcome!
 
-Hi, I'm **[Your Name]**, a [Your Profession / Student at ...].
+Hi, I'm **[Serena Wu]**, a [Your Profession / Student at ...].
 
 I'm passionate about solving real-world problems through data, design, and code. This site showcases some of my academic and personal projects in data science, software engineering, and more.
 
