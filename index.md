@@ -1,17 +1,27 @@
 ---
 title: Home
-layout: home
+layout: default
 nav_order: 1
 ---
 
-# Hi, I'm [Your Name] 👋
+# 👋 Welcome!
 
-Welcome to my personal website! I'm a data-driven software developer passionate about technology and innovation.
+Hi, I'm **[Your Name]**, a [Your Profession / Student at ...].
+
+I'm passionate about solving real-world problems through data, design, and code. This site showcases some of my academic and personal projects in data science, software engineering, and more.
+
+---
 
 ## 📄 Resume
 
-[Download my resume (PDF)](/assets/resume.pdf){: .btn .btn-primary }
+You can download my resume here:
 
-## 🔍 About Me
+[**Download Resume (PDF)**](/assets/resume.pdf){: .btn .btn-primary }
 
-Brief intro about your background, career interests, and what you're looking for (internship/full-time, etc).
+---
+
+## 📌 Quick Links
+
+- [Data Projects](./data-project)
+- [Software Projects](./software-project)
+- [Personal Life](./personal-life)
