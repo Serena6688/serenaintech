@@ -6,7 +6,7 @@ nav_order: 1
 
 # 👋 Welcome!
 <img src="/serenaintech/assets/images/profile.jpg" alt="Slide 1"
-style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+style="max-width: 150px; height: auto; display: block; margin: 1rem auto;" />
 
 Hi, I'm **Serena Wu**, a Student at University of Pennsylvania.
 
