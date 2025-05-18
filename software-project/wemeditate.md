@@ -36,10 +36,18 @@ We are planning to expand WeMeditate with features like:
 
 ---
 
-Here's a video about my project:
+## 🎥 Demo Video
 
-<iframe width="560" height="315" src="http://www.youtube.com/watch?v=bnsKXB_5YIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here’s a quick walkthrough of the WeMeditate app:
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/kTgs8VgtaGw" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
 ---
 
 ## 🧑‍🤝‍🧑 Community-Driven Growth
