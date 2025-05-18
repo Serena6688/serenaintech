@@ -1,4 +1,4 @@
-title: HTTP Server
+title: http server
 parent: Software Projects
 layout: default
 nav_order: 2

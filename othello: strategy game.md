@@ -1,5 +1,5 @@
 ---
-title: Othello: AI Strategy Game
+title: othello game
 parent: Software Projects
 layout: default
 nav_order: 1
