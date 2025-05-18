@@ -3,6 +3,7 @@ title: Customer Targeting
 parent: Data Projects
 layout: default
 nav_order: 1
+permalink: /data-project/customer-targeting/
 ---
 
 # 🎯 Customer Targeting Strategy
