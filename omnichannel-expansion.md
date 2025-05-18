@@ -1,5 +1,5 @@
 ---
-title: Omnichannel Market Expansion
+title: Omnichannel Expansion
 parent: Data Projects
 layout: default
 nav_order: 2
