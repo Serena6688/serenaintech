@@ -25,7 +25,9 @@ Cooking is my weekend therapy, and I love recreating flavors I’ve encountered 
 ---
 
 ## 🐇 Meet Pudding, My Bunny
-![Slide 1](/serenaintech/assets/images/rabbit.png)
+
+<img src="/serenaintech/assets/images/rabbit.png" alt="Slide 1"
+style="max-width: 400px; height: auto; display: block; margin: 1rem auto;" />
 Pudding is my fluffy roommate and emotional support animal.  
 She’s curious, sassy, and has a strong preference for cilantro over carrots.
 
@@ -36,7 +38,9 @@ Whether she’s napping in a sunbeam or doing zoomies across the floor, she remi
 ---
 
 ## 🧘 Stillness & Play
-![Slide 1](/serenaintech/assets/images/yoga.png)
+<img src="/serenaintech/assets/images/yoga.png" alt="Slide 1"
+style="max-width: 400px; height: auto; display: block; margin: 1rem auto;" />
+
 Life in tech can be intense, so I prioritize balance through mindfulness, photography, and long walks.  
 Whether it’s journaling by a window or discovering a local jazz bar, I believe personal inspiration fuels professional growth.
 
