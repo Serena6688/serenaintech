@@ -3,6 +3,9 @@ description: Personal Portfolio
 theme: just-the-docs
 
 url: https://serena6688.github.io/serenaintech/
+baseurl: "/serenaintech"
+
+search_enabled: false
 
 # Navigation links
 nav:
