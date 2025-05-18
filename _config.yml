@@ -15,6 +15,3 @@ nav:
   - title: Personal Life
     url: /personal-life
 
-# Add resume download link to the footer or navbar
-aux_links:
-  Resume (PDF): /assets/resume.pdf
