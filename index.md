@@ -1,16 +1,17 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-# About Me
+# Hi, I'm [Your Name] 👋
 
-Welcome to my website! I'm [Your Name], a [Your Profession].
+Welcome to my personal website! I'm a data-driven software developer passionate about technology and innovation.
 
-[Your detailed introduction here...]
+## 📄 Resume
 
-## Resume
+[Download my resume (PDF)](/assets/resume.pdf){: .btn .btn-primary }
 
-You can download my resume here:
+## 🔍 About Me
 
-[Download Resume](assets/resume.pdf)
+Brief intro about your background, career interests, and what you're looking for (internship/full-time, etc).

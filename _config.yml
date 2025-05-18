@@ -1,9 +1,20 @@
-title: Your Name  # Website title
-logo: "/path/to/your/logo.png" # Optional logo
-# description: "A personal website" # Optional description
+title: Your Name
+description: Personal Portfolio
+theme: just-the-docs
 
-nav_order:
-  - home.md
-  - data-projects.md
-  - software-projects.md
-  - personal-life.md
+url: https://your-github-username.github.io
+
+# Navigation links
+nav:
+  - title: Home
+    url: /
+  - title: Data Projects
+    url: /data-project
+  - title: Software Projects
+    url: /software-project
+  - title: Personal Life
+    url: /personal-life
+
+# Add resume download link to the footer or navbar
+aux_links:
+  Resume (PDF): /assets/resume.pdf
