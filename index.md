@@ -16,12 +16,11 @@ I'm passionate about solving real-world problems through data, design, and code.
 
 You can download my resume here:
 
-[**Download Data Resume (PDF)**](/assets/resume_data.pdf){: .btn .btn-primary }
-[**Download SDE Resume (PDF)**](/assets/resume_sde.pdf){: .btn .btn-primary }
+[**Download Data Resume (PDF)**](/serenaintech/assets/resume_data.pdf){: .btn .btn-primary }
+[**Download SDE Resume (PDF)**](/serenaintech/assets/resume_sde.pdf){: .btn .btn-primary }
 
 
 ## 📌 Quick Links
 
 - [Data Projects](./data-projects)
 - [Software Projects](./software-projects)
-- ![Test Image](/assets/images/Data1-1.png)

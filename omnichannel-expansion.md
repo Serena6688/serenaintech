@@ -64,15 +64,12 @@ nav_order: 2
 
 ## 🖼️ Visuals & Deep-Dive Slides
 
-<img src="/assets/images/Data1-1.png" width="100%" alt="Slide 1" />
-<img src="/assets/images/Data1-2.png" width="100%" alt="Slide 2" />
-<img src="/assets/images/Data1-3.png" width="100%" alt="Slide 3" />
-![Slide 1](/assets/images/Data1-1.png)
-![Slide 2](/assets/images/Data1-2.png)
-![Slide 3](/assets/images/Data1-3.png)
-![Slide 4](/assets/images/Data1-4.png)
-![Slide 5](/assets/images/Data1-5.png)
-![Slide 6](/assets/images/Data1-6.png)
-![Slide 7](/assets/images/Data1-7.png)
-![Slide 8](/assets/images/Data1-8.png)
-![Slide 9](/assets/images/Data1-9.png)
+![Slide 1](/serenaintech/assets/images/Data1-1.png)
+![Slide 2](/serenaintech/assets/images/Data1-2.png)
+![Slide 3](/serenaintech/assets/images/Data1-3.png)
+![Slide 4](/serenaintech/assets/images/Data1-4.png)
+![Slide 5](/serenaintech/assets/images/Data1-5.png)
+![Slide 6](/serenaintech/assets/images/Data1-6.png)
+![Slide 7](/serenaintech/assets/images/Data1-7.png)
+![Slide 8](/serenaintech/assets/images/Data1-8.png)
+![Slide 9](/serenaintech/assets/images/Data1-9.png)

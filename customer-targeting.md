@@ -50,8 +50,8 @@ Developed data-driven targeting strategies by analyzing e-commerce user profile 
 ---
 
 ## 🖼️ Visuals & Deep-Dive Slides
-![Slide 1](/assets/images/Data2-1.png)
-![Slide 2](/assets/images/Data2-2.png)
-![Slide 3](/assets/images/Data2-3.png)
-![Slide 4](/assets/images/Data2-4.png)
-![Slide 5](/assets/images/Data2-5.png)
+![Slide 1](/serenaintech/assets/images/Data2-1.png)
+![Slide 2](/serenaintech/assets/images/Data2-2.png)
+![Slide 3](/serenaintech/assets/images/Data2-3.png)
+![Slide 4](/serenaintech/assets/images/Data2-4.png)
+![Slide 5](/serenaintech/assets/images/Data2-5.png)
