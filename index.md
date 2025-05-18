@@ -18,7 +18,7 @@ You can download my resume here:
 
 [**Download Data Resume (PDF)**](/assets/resume_data.pdf){: .btn .btn-primary }
 [**Download SDE Resume (PDF)**](/assets/resume_sde.pdf){: .btn .btn-primary }
----
+
 
 ## 📌 Quick Links
 

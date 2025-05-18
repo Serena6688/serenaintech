@@ -5,18 +5,30 @@ nav_order: 2
 has_children: true
 ---
 
-# Data Projects
+# 📊 Data Projects
 
-Here are some of my data-related projects:
+Explore some of my work in data analytics and business insights. Click a project in the sidebar to learn more.
 
-## Customer Targeting Strategy
+---
 
-[Project Description]
+## 🔍 Project Summaries
 
-[Any links to code, demos, etc.]
+### 🎯 [Customer Targeting Strategy](./data-project/customer-targeting)
 
-## Omnichannel Market Expansion
+Developed data-driven targeting strategies by analyzing e-commerce user profile data to identify high-potential customer segments.
 
-[Project Description]
+- Validated findings with a full-scale launch
+- Resulted in a **14.3% YoY increase** in ad campaign effectiveness
 
-[Any links to code, demos, etc.]
+➡️ [View details](./data-project/customer-targeting)
+
+---
+
+### 🌐 [Omnichannel Market Expansion](./data-project/omnichannel-expansion)
+
+Supported DeWalt’s China expansion using 4P marketing mix analysis, benchmarking, and omnichannel strategy refinement.
+
+- Drove a **13.5% revenue increase** during 618 and Double 11 sales events
+- Collaborated across teams to optimize channel mix and promotional timing
+
+➡️ [View details](./data-project/omnichannel-expansion)
