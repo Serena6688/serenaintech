@@ -63,6 +63,10 @@ nav_order: 2
 ---
 
 ## 🖼️ Visuals & Deep-Dive Slides
+
+<img src="/assets/images/Data1-1.png" width="100%" alt="Slide 1" />
+<img src="/assets/images/Data1-2.png" width="100%" alt="Slide 2" />
+<img src="/assets/images/Data1-3.png" width="100%" alt="Slide 3" />
 ![Slide 1](/assets/images/Data1-1.png)
 ![Slide 2](/assets/images/Data1-2.png)
 ![Slide 3](/assets/images/Data1-3.png)
