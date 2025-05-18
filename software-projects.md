@@ -4,24 +4,27 @@ layout: default
 nav_order: 3
 ---
 
-# Software Projects
+# 💻 Software Projects
 
-Here are some of my software development projects:
+Hands-on work in full-stack development, algorithms, and systems programming.
 
-## Othello: AI Strategy Game
+---
 
-[Project Description]
+## ♟ Othello: AI Strategy Game
 
-[Any links to code, demos, etc.]
+- JavaFX game with Minimax & Alpha-Beta pruning
+- UI features: move hints, sound, restart
 
-## HTTP Server
+---
 
-[Project Description]
+## 🌐 HTTP Server
 
-[Any links to code, demos, etc.]
+- Multithreaded C++ server using POSIX sockets
+- Features: concurrency, static file serving
 
-## WeMeditate App
+---
 
-[Project Description]
+## 🧘 WeMeditate App
 
-[Any links to code, demos, etc.]
+- React + Firebase meditation tracker
+- Features: guided audio, daily streaks
