@@ -1,5 +1,5 @@
 ---
-title: othello game
+title: Othello Game
 parent: Software Projects
 layout: default
 nav_order: 1
