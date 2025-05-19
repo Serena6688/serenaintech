@@ -13,7 +13,7 @@ Beyond data and code, I find joy in exploring cultures, discovering flavors, and
 ## 🌍 Travel & Culture
 
 I’ve lived in **New York City for 6 years** and **Shanghai for 4 years**, two places that shaped how I see the world — fast-paced, diverse, and full of stories.  
-Travel is my favorite way to reset and reimagine. Whether wandering side streets in Tokyo or hiking coastal trails in Portugal, I’m always chasing perspective.
+Travel is my favorite way to reset and reimagine. Whether wandering historic markets in **Istanbul**, soaking in the skyline of **Hong Kong**, or enjoying the charm of **Macau’s old town**, I’m always chasing new perspectives.
 
 ---
 
