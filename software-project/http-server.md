@@ -41,5 +41,5 @@ A low-level C++ web server built from scratch using POSIX sockets and pthreads.
 
 Explore the source code and documentation for the Othello Game:
 
-[👉 View on GitHub]( tinyurl.com/cit5950Server)
+[👉 View on GitHub]( https://github.com/upenn-systems/25sp-cit5950-serena6688-junxiangli31415926-searchserver)
 ---
