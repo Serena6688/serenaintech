@@ -18,7 +18,8 @@ Travel is my favorite way to reset and reimagine. Whether wandering historic mar
 ---
 
 ## 🍜 Food & Flavor
-
+<img src="/serenaintech/assets/images/food.png" alt="Slide 1"
+style="max-width: 400px; height: auto; display: block; margin: 1rem auto;" />
 I’m a lifelong foodie — from late-night noodle spots in Shanghai to hidden falafel counters in the East Village.  
 Cooking is my weekend therapy, and I love recreating flavors I’ve encountered on the road.
 
