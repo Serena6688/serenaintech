@@ -35,6 +35,12 @@ We are planning to expand WeMeditate with features like:
 - **User Login Functionality:** For personalized experiences and progress tracking.
 
 ---
+## 🔗 GitHub Repository
+
+Explore the source code and documentation for the WeMeditate app:
+
+[👉 View on GitHub](https://github.com/Aphrodite513/weMeditate)
+---
 
 ## 🎥 Demo Video
 

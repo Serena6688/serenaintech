@@ -37,8 +37,9 @@ A low-level C++ web server built from scratch using POSIX sockets and pthreads.
 
 ---
 
-## 📈 What I Learned
+## 🔗 GitHub Repository
 
-- Low-level network programming and TCP/IP
-- Thread synchronization and concurrency control
-- HTTP protocol basics
+Explore the source code and documentation for the Othello Game:
+
+[👉 View on GitHub]( tinyurl.com/cit5950Server)
+---
