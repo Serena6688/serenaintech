@@ -31,14 +31,18 @@ I work across **two domains**—each grounded in problem solving and creativity.
 
 Whether it's a multithreaded server, an AI board game, or a predictive model, I enjoy bringing ideas to life through thoughtful design and solid implementation.
 
----
+[//]: # (---)
 
-## 📄 Resume
+[//]: # ()
+[//]: # (## 📄 Resume)
 
-Choose a resume tailored to the focus you're interested in:
+[//]: # ()
+[//]: # (Choose a resume tailored to the focus you're interested in:)
 
-- [📊 Data Resume (PDF)](/serenaintech/assets/resume_data.pdf){: .btn .btn-outline }
-- [💻 SDE Resume (PDF)](/serenaintech/assets/resume_sde.pdf){: .btn .btn-outline }
+[//]: # ()
+[//]: # (- [📊 Data Resume &#40;PDF&#41;]&#40;/serenaintech/assets/resume_data.pdf&#41;{: .btn .btn-outline })
+
+[//]: # (- [💻 SDE Resume &#40;PDF&#41;]&#40;/serenaintech/assets/resume_sde.pdf&#41;{: .btn .btn-outline })
 
 ---
 
