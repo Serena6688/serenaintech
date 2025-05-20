@@ -38,3 +38,10 @@ You can download my resume here:
 
 - [Data Projects](./data-projects)
 - [Software Projects](./software-projects)
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luyaowu001/)
+- 💻 [GitHub](https://github.com/Serena6688)
