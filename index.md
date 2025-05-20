@@ -5,8 +5,6 @@ nav_order: 1
 ---
 
 # 👋 Welcome!
-<img src="/serenaintech/assets/images/profile.png" alt="Profile photo"
-style="max-width: 400px; height: auto; display: block; margin: 1rem auto;" />
 
 Hi, I'm **Serena Wu**, a graduate student at the **University of Pennsylvania**, pursuing a Master’s in Computer and Information Technology.
 
