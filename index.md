@@ -6,43 +6,40 @@ nav_order: 1
 
 # 👋 Welcome!
 
-Hi, I'm **Serena Wu**, a graduate student at the **University of Pennsylvania**, pursuing a Master’s in Computer and Information Technology.
+[//]: # (<img src="/serenaintech/assets/images/profile.png" alt="Slide 1")
 
-With a professional background in **data analytics** and growing expertise in **software engineering**, I thrive at the intersection of data, design, and code.
+[//]: # (style="max-width: 400px; height: auto; display: block; margin: 1rem auto;" />)
 
----
+Hi, I'm **Serena Wu**, a graduate student at the **University of Pennsylvania**, where I'm pursuing a Master’s in Computer and Information Technology.
 
-## 🎯 Explore My Work
+With a foundation in data analytics and a growing passion for software engineering, I thrive at the intersection of data, design, and code. I enjoy building things that are both **functional and human-centered**—from AI-driven games and backend systems to intuitive web apps and data-driven strategies.
 
-I work across **two domains**—each grounded in problem solving and creativity. Choose your area of interest:
-
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin-top: 1rem;">
-  <a href="./data-projects" class="btn btn-primary" style="width: 250px;">📊 View Data Projects</a>
-  <a href="./software-projects" class="btn btn-primary" style="width: 250px;">💻 View Software Projects</a>
-</div>
+Prior to grad school, I worked as a Data Analyst where I helped businesses optimize marketing strategies through insights and modeling. I’m now expanding my technical toolkit to become a well-rounded engineer capable of tackling end-to-end challenges.
 
 ---
 
-## 🧭 About Me
+## 💡 What Drives Me
 
-- Former **Data Analyst**: Transformed raw data into business insights using modeling, clustering, and A/B testing.
-- Aspiring **Software Engineer**: Building full-stack applications, backend systems, and algorithm-driven tools.
-- Passionate about tools that are **human-centered** and **technically sound**.
+- Turning messy data into clear, actionable insights
+- Building user-focused tools that solve real problems
+- Collaborating across disciplines to bring ideas to life
 
-Whether it's a multithreaded server, an AI board game, or a predictive model, I enjoy bringing ideas to life through thoughtful design and solid implementation.
+Whether it's developing a meditation app, simulating game AI, or creating dashboards that inform decisions, I'm always learning and pushing myself forward.
 
-[//]: # (---)
+---
 
-[//]: # ()
-[//]: # (## 📄 Resume)
+## 📄 Resume
 
-[//]: # ()
-[//]: # (Choose a resume tailored to the focus you're interested in:)
+You can download my resume here:
 
-[//]: # ()
-[//]: # (- [📊 Data Resume &#40;PDF&#41;]&#40;/serenaintech/assets/resume_data.pdf&#41;{: .btn .btn-outline })
+[**Download Data Resume (PDF)**](/serenaintech/assets/resume_data.pdf){: .btn .btn-primary }
+[**Download SDE Resume (PDF)**](/serenaintech/assets/resume_sde.pdf){: .btn .btn-primary }
 
-[//]: # (- [💻 SDE Resume &#40;PDF&#41;]&#40;/serenaintech/assets/resume_sde.pdf&#41;{: .btn .btn-outline })
+
+## 📌 Quick Links
+
+- [Data Projects](./data-projects)
+- [Software Projects](./software-projects)
 
 ---
 
