@@ -11,15 +11,15 @@ just_the_docs:
   show_sidebar: false
 
 # Navigation links
-#nav:
-#  - title: Home
-#    url: /
-#  - title: Data Projects
-#    url: /data-project
+nav:
+  - title: Home
+    url: /
+  - title: My Projects
+    url: /data-project
 #  - title: Software Projects
 #    url: /software-project
-#  - title: Personal Life
-#    url: /personal-life
+  - title: Personal Life
+    url: /personal-life
 
 
 aux_links:
