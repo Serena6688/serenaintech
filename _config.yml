@@ -7,6 +7,9 @@ baseurl: "/serenaintech"
 
 search_enabled: false
 
+just_the_docs:
+  show_sidebar: false
+
 # Navigation links
 #nav:
 #  - title: Home
