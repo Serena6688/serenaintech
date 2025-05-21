@@ -41,10 +41,12 @@ Whether it's developing a meditation app, simulating game AI, or creating dashbo
 
 [//]: # ()
 
-## 📌 Quick Links
+[//]: # (## 📌 Quick Links)
 
-- [Data Projects](./data-projects)
-- [Software Projects](./software-projects)
+[//]: # ()
+[//]: # (- [Data Projects]&#40;./data-projects&#41;)
+
+[//]: # (- [Software Projects]&#40;./software-projects&#41;)
 
 ---
 
