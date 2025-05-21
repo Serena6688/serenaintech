@@ -1,8 +1,7 @@
 ---
 title: WeMeditate App
-parent: Software Projects
+
 layout: default
-nav_order: 3
 permalink: /software-project/wemeditate/
 ---
 

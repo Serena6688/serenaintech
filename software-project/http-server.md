@@ -1,8 +1,8 @@
 ---
 title: Http Server
-parent: Software Projects
+
 layout: default
-nav_order: 2
+
 permalink: /software-project/http-server/
 ---
 
