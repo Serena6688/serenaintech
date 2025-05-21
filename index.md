@@ -26,15 +26,20 @@ Prior to grad school, I worked as a Data Analyst where I helped businesses optim
 
 Whether it's developing a meditation app, simulating game AI, or creating dashboards that inform decisions, I'm always learning and pushing myself forward.
 
----
+[//]: # (---)
 
-## 📄 Resume
+[//]: # ()
+[//]: # (## 📄 Resume)
 
-You can download my resume here:
+[//]: # ()
+[//]: # (You can download my resume here:)
 
-[**Download Data Resume (PDF)**](/serenaintech/assets/resume_data.pdf){: .btn .btn-primary }
-[**Download SDE Resume (PDF)**](/serenaintech/assets/resume_sde.pdf){: .btn .btn-primary }
+[//]: # ()
+[//]: # ([**Download Data Resume &#40;PDF&#41;**]&#40;/serenaintech/assets/resume_data.pdf&#41;{: .btn .btn-primary })
 
+[//]: # ([**Download SDE Resume &#40;PDF&#41;**]&#40;/serenaintech/assets/resume_sde.pdf&#41;{: .btn .btn-primary })
+
+[//]: # ()
 
 ## 📌 Quick Links
 
