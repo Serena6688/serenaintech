@@ -1,6 +1,8 @@
 ---
 title: Omnichannel Expansion
+parent: Projects
 layout: default
+nav_order: 2
 permalink: /data-project/omnichannel-expansion/
 ---
 # 🌐 Omnichannel Market Expansion

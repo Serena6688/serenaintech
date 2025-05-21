@@ -1,8 +1,8 @@
 ---
 title: Othello Game
-
+parent: Projects
 layout: default
-
+nav_order: 3
 permalink: /software-project/othello/
 ---
 
