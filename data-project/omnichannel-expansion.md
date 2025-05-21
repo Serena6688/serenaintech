@@ -8,9 +8,10 @@ permalink: /data-project/omnichannel-expansion/
 # 🌐 Omnichannel Market Expansion
 
 **Client:** Stanley Black & Decker (DeWalt)  
-**Role:** Data Analyst  
+
+[//]: # (**Role:** Data Analyst  )
 **Duration:** Jan 2021 – Feb 2022  
-**Tools:** Python, SQL, MySQL, R, Tableau, Excel, NumPy, PyTorch, Alibaba Cloud
+**Tools:** Python, SQL, MySQL, R, Tableau, Excel, NumPy, PyTorch, Alibaba
 
 ---
 

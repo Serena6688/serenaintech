@@ -9,9 +9,10 @@ permalink: /data-project/customer-targeting/
 # 🎯 Customer Targeting Strategy
 
 **Client:** Nivea  
-**Role:** Data Analyst  
+
+[//]: # (**Role:** Data Analyst  )
 **Duration:** Feb 2022 – Feb 2023  
-**Tools:** Python, SQL, MySQL, R, Tableau, Excel, NumPy, PyTorch, Alibaba Cloud
+**Tools:** Python, SQL, MySQL, Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, Tableau, Excel, Alibaba Cloud
 
 ## 📌 Project Overview
 
