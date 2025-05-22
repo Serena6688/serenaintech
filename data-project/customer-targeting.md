@@ -11,6 +11,7 @@ permalink: /data-project/customer-targeting/
 **Client:** Nivea  
 
 [//]: # (**Role:** Data Analyst  )
+
 **Duration:** Feb 2022 – Feb 2023  
 **Tools:** Python, SQL, MySQL, Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, Tableau, Excel, Alibaba Cloud
 
