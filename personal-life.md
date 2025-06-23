@@ -1,10 +1,10 @@
 ---
-title: Personal Life
+title: Life Outside Code
 layout: default
 nav_order: 4
 ---
 
-# 🌱 Personal Life
+# 🌱 Life Outside Code
 
 Beyond data and code, I find joy in exploring cultures, discovering flavors, and embracing everyday beauty.
 
