@@ -13,33 +13,33 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 ---
 # 🌿 App Screens & Visual Journey
 
-1. Welcome Screen
+- **1. Welcome Screen**
 <img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
 
 * Minimalist design with "Take a Deep Breath" prompt, inviting users to begin their mindfulness journey.
 * Visual: Soft gradient background with a centered "Start My Journey" button.
 
-2. Meditation Selection
+- **2. Meditation Selection**
 <img src="/serenaintech/assets/images/selection1.png" alt="Selection1 picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
 
 * Choose from Guided, Breath Focus, or Pure Music sessions.
 * Visual: Card-based UI with soothing icons and brief descriptions (e.g., "Step-by-step guidance for calmness").
 
-3. Duration Filters
+- **3. Duration Filters**
    <img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
    <img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
 
 * Sessions categorized by time (5–10 min, 10–20 min, 20+ min) for quick access.
 * Visual: Horizontal scrollable tabs with session cards featuring nature-inspired thumbnails.
 
-4. Pure Music Player
+- **4. Pure Music Player**
 <img src="/serenaintech/assets/images/Player1.png" alt="player1 picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
-   <img src="/serenaintech/assets/images/Playern2.png" alt="player2 picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+<img src="/serenaintech/assets/images/Player2.png" alt="player2 picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
 
 * Ambient tracks like Moonlight and Spring Breeze with play/preview options.
 * Visual: Full-screen music player with a waveform animation and time slider.
 
-5. Achievement Screen
+- **5. Achievement Screen**
 <img src="/serenaintech/assets/images/achievement.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
 
 * Celebrate progress with a "Congratulations!" message and session counter (e.g., "Class: 0/10"). 
@@ -48,10 +48,11 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 ---
 
 ## 🛠️ Tech Stack
-- 
+
 - **Frontend:** SwiftUI for dynamic, responsive layouts with smooth transitions.
 - **Animations:** Lottie for celebratory effects (e.g., confetti on completion).
 - **Backend:** Firebase (planned) for future user logins and progress tracking.
+
 ---
 
 ## ✨ Key Features
