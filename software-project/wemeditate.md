@@ -6,16 +6,52 @@ nav_order: 5
 permalink: /software-project/wemeditate/
 ---
 
-# 📱 WeMeditate: Your Wellness Companion App
+# 📱 WeMeditate: Your Serene Escape to Mindfulness
 
-An iOS app designed to empower you on your wellness journey through guided meditation sessions.
+A beautifully crafted iOS app designed to guide you through meditation with calming visuals, intuitive controls, and personalized sessions.
+
+---
+# 🌿 App Screens & Visual Journey
+
+1. Welcome Screen
+<img src="/serenaintech/assets/images/welcome.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+
+* Minimalist design with "Take a Deep Breath" prompt, inviting users to begin their mindfulness journey.
+* Visual: Soft gradient background with a centered "Start My Journey" button.
+
+2. Meditation Selection
+<img src="/serenaintech/assets/images/selection1.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+
+* Choose from Guided, Breath Focus, or Pure Music sessions.
+* Visual: Card-based UI with soothing icons and brief descriptions (e.g., "Step-by-step guidance for calmness").
+
+3. Duration Filters
+   <img src="/serenaintech/assets/images/selection2.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+   <img src="/serenaintech/assets/images/selection3.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+
+* Sessions categorized by time (5–10 min, 10–20 min, 20+ min) for quick access.
+* Visual: Horizontal scrollable tabs with session cards featuring nature-inspired thumbnails.
+
+4. Pure Music Player
+<img src="/serenaintech/assets/images/Player1.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+   <img src="/serenaintech/assets/images/Playern2.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+
+* Ambient tracks like Moonlight and Spring Breeze with play/preview options.
+* Visual: Full-screen music player with a waveform animation and time slider.
+
+5. Achievement Screen
+<img src="/serenaintech/assets/images/achievement.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
+
+* Celebrate progress with a "Congratulations!" message and session counter (e.g., "Class: 0/10"). 
+* Visual: Confetti animation over a zen-themed backdrop.
 
 ---
 
-## 🛠️ How We Built It
-
-We developed WeMeditate using **Swift** and **Xcode** for the iOS platform. The user interface was built with **SwiftUI** to provide a clean, modern, and user-friendly experience. We also incorporated animations and transitions for a more immersive and seamless navigation.
-
+## 🛠️ Tech Stack
+- 
+- **Frontend:** SwiftUI for dynamic, responsive layouts with smooth transitions.
+- **Animations:** Lottie for celebratory effects (e.g., confetti on completion).
+- **Backend:** Firebase (planned) for future user logins and progress tracking.
 ---
 
 ## ✨ Key Features
@@ -31,7 +67,7 @@ We developed WeMeditate using **Swift** and **Xcode** for the iOS platform. The 
 We are planning to expand WeMeditate with features like:
 
 - **New Meditation Programs and Daily Challenges**
-- **Wellness Reminders**
+- **Wellness Reminders:**  Push notifications for hydration, stretch breaks, and mindfulness prompts.
 - **User Login Functionality:** For personalized experiences and progress tracking.
 
 ---
