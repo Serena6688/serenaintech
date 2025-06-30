@@ -30,9 +30,7 @@ This project involved building a fully functional Othello game, integrating AI a
 ## 🎮 Key Features
 <img src="/serenaintech/assets/images/othelle.png" alt="Othelle picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
--   Interactive UI with:
-  -   Legal move hints
-  -   Time Remaining feature 
+-   Interactive UI with: Legal move hints; Time Remaining feature 
 -   Clean visual design with a calming "deep green" color scheme 
 -   Responsive board
 
