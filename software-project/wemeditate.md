@@ -15,7 +15,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 **Welcome Screen**
 
-<img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="max-width: 200px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
 * Minimalist design with "Take a Deep Breath" prompt, inviting users to begin their mindfulness journey.
 * Visual: Soft gradient background with a centered "Start My Journey" button.
@@ -24,7 +24,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 **Meditation Selection**
 
-<img src="/serenaintech/assets/images/selection1.png" alt="Selection1 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/selection1.png" alt="Selection1 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
 * Choose from Guided, Breath Focus, or Pure Music sessions.
 * Visual: Card-based UI with soothing icons and brief descriptions (e.g., "Step-by-step guidance for calmness").
@@ -33,8 +33,8 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 **Duration Filters**
 
-<img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
-<img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
 * Sessions categorized by time (5–10 min, 10–20 min, 20+ min) for quick access.
 * Visual: Horizontal scrollable tabs with session cards featuring nature-inspired thumbnails.
@@ -43,8 +43,8 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 **Pure Music Player**
 
-<img src="/serenaintech/assets/images/Player1.png" alt="player1 picture" style="width: auto; max-height: 200px; float: left; margin: 0 1.5rem 1rem 0;" />
-<img src="/serenaintech/assets/images/Player2.png" alt="player2 picture" style="width: auto; max-height: 200px; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/Player1.png" alt="player1 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/Player2.png" alt="player2 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
 * Ambient tracks like Moonlight and Spring Breeze with play/preview options.
 * Visual: Full-screen music player with a waveform animation and time slider.
@@ -53,7 +53,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 **Achievement Screen**
 
-<img src="/serenaintech/assets/images/achievement.png" alt="Profile picture" style="width: auto; max-height: 200px; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/achievement.png" alt="Profile picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
 * Celebrate progress with a "Congratulations!" message and session counter (e.g., "Class: 0/10").
 * Visual: Confetti animation over a zen-themed backdrop.
