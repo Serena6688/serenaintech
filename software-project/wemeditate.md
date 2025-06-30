@@ -13,7 +13,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 ---
 # 🌿 App Screens & Visual Journey
 
-**Welcome Screen**
+**Welcome Screen:**
 
 <img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
@@ -22,7 +22,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 <div style="clear: both;"></div>
 
-**Meditation Selection**
+**Meditation Selection:**
 
 <img src="/serenaintech/assets/images/selection1.png" alt="Selection1 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
@@ -31,7 +31,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 <div style="clear: both;"></div>
 
-**Duration Filters**
+**Duration Filters:**
 
 <img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 <img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
@@ -41,7 +41,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 <div style="clear: both;"></div>
 
-**Pure Music Player**
+**Pure Music Player:**
 
 <img src="/serenaintech/assets/images/Player1.png" alt="player1 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 <img src="/serenaintech/assets/images/Player2.png" alt="player2 picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
@@ -51,7 +51,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 <div style="clear: both;"></div>
 
-**Achievement Screen**
+**Achievement Screen:**
 
 <img src="/serenaintech/assets/images/achievement.png" alt="Profile picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
