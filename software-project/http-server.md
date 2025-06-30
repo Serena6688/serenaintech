@@ -30,7 +30,7 @@ A low-level C++ web server built from scratch using POSIX sockets and pthreads.
 ---
 
 ## 🚀 Architecture Overview
-<img src="/serenaintech/assets/images/httpserver.png" alt="HTTP Server picture" style="width: 300px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/httpserver.png" alt="HTTP Server picture" style="width: 450px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
 - One listener thread for incoming connections
 - Request-handling worker threads for each connection
