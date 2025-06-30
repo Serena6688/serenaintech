@@ -7,7 +7,7 @@ permalink: /software-project/othello/
 ---
 
 # ♟ Othello: AI Strategy Game
-<img src="/serenaintech/assets/images/othelle.png" alt="Othelle picture" style="width: auto; max-height: 300px; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/othelle.png" alt="Othelle picture" style="width: auto; max-height: 300px; margin: 0 1.5rem 1rem 0;" />
 
 A modern take on the classic strategy board game, powered by artificial intelligence.
 
