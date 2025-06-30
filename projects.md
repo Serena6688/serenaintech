@@ -13,7 +13,7 @@ A showcase of selected software and analytics projects I’ve worked on—from w
 
 ## 📊 Customer Targeting
 
-<img src="/serenaintech/assets/images/customer_targeting.png" alt="Customer Targeting picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/Data2-1.png" alt="Customer Targeting picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
 Developed an RFM segmentation and clustering engine using Python and scikit-learn to identify high-value customers for targeted campaigns. Integrated A/B testing to validate marketing performance lifts.
@@ -24,7 +24,7 @@ Developed an RFM segmentation and clustering engine using Python and scikit-lear
 
 ## 🛍️ Omnichannel Expansion
 
-<img src="/serenaintech/assets/images/omnichannel.png" alt="Omnichannel picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/Data1-1.png" alt="Omnichannel picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
 Built a dashboard to track user engagement across e-commerce and retail store touchpoints using Tableau + SQL. Supported strategy for physical expansion based on regional online-to-offline conversion rates.
