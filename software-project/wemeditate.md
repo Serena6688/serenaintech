@@ -15,7 +15,7 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 **Welcome Screen**
 
-<img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="max-width: 200px; height: auto; float: left; margin: 0 0 1rem 1rem;" />
+<img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="max-width: 200px; height: auto; float: left; margin: 0 1rem 1rem 0;" />
 
 * Minimalist design with "Take a Deep Breath" prompt, inviting users to begin their mindfulness journey.
 * Visual: Soft gradient background with a centered "Start My Journey" button.
@@ -33,8 +33,8 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 **Duration Filters**
 
-<img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="max-width: 200px; height: auto; float: left; margin: 0 0 1rem 1rem;" />
-<img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="max-width: 200px; height: auto; float: left; margin: 0 0 1rem 1rem;" />
+<img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1rem 1rem 0;" />
+<img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1rem 1rem 0;" />
 
 * Sessions categorized by time (5–10 min, 10–20 min, 20+ min) for quick access.
 * Visual: Horizontal scrollable tabs with session cards featuring nature-inspired thumbnails.
