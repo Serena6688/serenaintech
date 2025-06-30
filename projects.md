@@ -11,7 +11,7 @@ A showcase of selected software and analytics projects I’ve worked on—from w
 
 ---
 
-## 📊 Customer Targeting
+## [📊 Customer Targeting](https://serena6688.github.io/serenaintech/data-project/customer-targeting/)
 
 <img src="/serenaintech/assets/images/Data2-1.png" alt="Customer Targeting picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
@@ -22,7 +22,7 @@ Developed an RFM segmentation and clustering engine using Python and scikit-lear
 
 ---
 
-## 🛍️ Omnichannel Expansion
+## [🛍️ Omnichannel Expansion](https://serena6688.github.io/serenaintech/data-project/omnichannel-expansion/)
 
 <img src="/serenaintech/assets/images/Data1-1.png" alt="Omnichannel picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
@@ -33,7 +33,7 @@ Built a dashboard to track user engagement across e-commerce and retail store to
 
 ---
 
-## 🎮 Othello Game (JavaFX)
+## [🎮 Othello Game (JavaFX)](https://serena6688.github.io/serenaintech/software-project/othello/)
 
 <img src="/serenaintech/assets/images/othelle.png" alt="Othello picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
@@ -44,7 +44,7 @@ An interactive desktop Othello game built in JavaFX. Includes move validation, d
 
 ---
 
-## 🌐 Multithreaded HTTP Server
+## [🌐 Multithreaded HTTP Server](https://serena6688.github.io/serenaintech/software-project/http-server/)
 
 <img src="/serenaintech/assets/images/httpserver.png" alt="HTTP Server picture" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
@@ -55,7 +55,7 @@ Implemented a C++ HTTP server with multithreading using POSIX sockets. Supports 
 
 ---
 
-## 🧘‍♀️ WeMeditate iOS App
+## [🧘‍♀️ WeMeditate iOS App](https://serena6688.github.io/serenaintech/software-project/wemeditate/)
 
 <img src="/serenaintech/assets/images/welcome.png" alt="WeMeditate welcome screen" style="width: 150px; height: auto; float: left; margin: 0 1.5rem 1rem 0;" />
 
