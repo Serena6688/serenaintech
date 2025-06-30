@@ -34,6 +34,7 @@ This project involved building a fully functional Othello game, integrating AI a
 -   Clean visual design with a calming "deep green" color scheme 
 -   Responsive board
 
+
 ---
 
 ## 🤖 AI Strategy
