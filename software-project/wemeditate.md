@@ -13,16 +13,16 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 ---
 # 🌿 App Screens & Visual Journey
 
-1. **Welcome Screen**
+**Welcome Screen**
 
-<img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="max-width: 200px; height: auto; float: right; margin: 0 0 1rem 1rem;" />
+<img src="/serenaintech/assets/images/welcome.png" alt="Welcome picture" style="max-width: 200px; height: auto; float: left; margin: 0 0 1rem 1rem;" />
 
 * Minimalist design with "Take a Deep Breath" prompt, inviting users to begin their mindfulness journey.
 * Visual: Soft gradient background with a centered "Start My Journey" button.
 
 <div style="clear: both;"></div>
 
-2. **Meditation Selection**
+**Meditation Selection**
 
 <img src="/serenaintech/assets/images/selection1.png" alt="Selection1 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1rem 1rem 0;" />
 
@@ -31,17 +31,17 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 <div style="clear: both;"></div>
 
-3. **Duration Filters**
+**Duration Filters**
 
-<img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="max-width: 200px; height: auto; float: right; margin: 0 0 1rem 1rem;" />
-<img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="max-width: 200px; height: auto; float: right; margin: 0 0 1rem 1rem;" />
+<img src="/serenaintech/assets/images/selection2.png" alt="Selection2 picture" style="max-width: 200px; height: auto; float: left; margin: 0 0 1rem 1rem;" />
+<img src="/serenaintech/assets/images/selection3.png" alt="Selection3 picture" style="max-width: 200px; height: auto; float: left; margin: 0 0 1rem 1rem;" />
 
 * Sessions categorized by time (5–10 min, 10–20 min, 20+ min) for quick access.
 * Visual: Horizontal scrollable tabs with session cards featuring nature-inspired thumbnails.
 
 <div style="clear: both;"></div>
 
-4. **Pure Music Player**
+**Pure Music Player**
 
 <img src="/serenaintech/assets/images/Player1.png" alt="player1 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1rem 1rem 0;" />
 <img src="/serenaintech/assets/images/Player2.png" alt="player2 picture" style="max-width: 200px; height: auto; float: left; margin: 0 1rem 1rem 0;" />
@@ -51,9 +51,9 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 <div style="clear: both;"></div>
 
-5. **Achievement Screen**
+**Achievement Screen**
 
-<img src="/serenaintech/assets/images/achievement.png" alt="Profile picture" style="max-width: 200px; height: auto; float: right; margin: 0 0 1rem 1rem;" />
+<img src="/serenaintech/assets/images/achievement.png" alt="Profile picture" style="max-width: 200px; height: auto; float: left; margin: 0 0 1rem 1rem;" />
 
 * Celebrate progress with a "Congratulations!" message and session counter (e.g., "Class: 0/10").
 * Visual: Confetti animation over a zen-themed backdrop.
