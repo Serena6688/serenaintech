@@ -13,6 +13,7 @@ A modern take on the classic strategy board game, powered by artificial intellig
 ---
 
 ## 🎯 Project Overview
+<img src="/serenaintech/assets/images/othelle.png" alt="Othelle picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
 This project involved building a fully functional Othello game, integrating AI algorithms with a user-friendly JavaFX GUI. The core objective was to implement intelligent computer players using game theory algorithms and seamlessly connect them with the GUI for interactive gameplay.
 
@@ -28,8 +29,6 @@ This project involved building a fully functional Othello game, integrating AI a
 ---
 
 ## 🎮 Key Features
-
-<img src="/serenaintech/assets/images/othelle.png" alt="Othelle picture" style="width: auto; max-height: 150px; float: left; margin: 0 1.5rem 1rem 0;" />
 
 -   Interactive UI with: 
   - Legal move hints; 
