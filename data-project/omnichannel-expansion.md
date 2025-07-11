@@ -75,3 +75,12 @@ permalink: /data-project/omnichannel-expansion/
 ![Slide 7](/serenaintech/assets/images/Data1-7.png)
 ![Slide 8](/serenaintech/assets/images/Data1-8.png)
 ![Slide 9](/serenaintech/assets/images/Data1-9.png)
+
+---
+
+## 🔗 GitHub Repository
+
+Explore the source code and documentation for the Othello Game:
+
+[👉 View on GitHub](https://github.com/Serena6688/Data-Science-Portfolio/tree/main)
+---

@@ -58,3 +58,12 @@ Developed data-driven targeting strategies by analyzing e-commerce user profile 
 ![Slide 3](/serenaintech/assets/images/Data2-3.png)
 ![Slide 4](/serenaintech/assets/images/Data2-4.png)
 ![Slide 5](/serenaintech/assets/images/Data2-5.png)
+
+---
+
+## 🔗 GitHub Repository
+
+Explore the source code and documentation for the Othello Game:
+
+[👉 View on GitHub](https://github.com/Serena6688/Data-Science-Portfolio/tree/main)
+---
