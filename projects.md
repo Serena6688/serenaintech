@@ -7,7 +7,19 @@ permalink: /projects/
 ---
 # 💼 Projects
 
-A showcase of selected software and analytics projects I’ve worked on—from web apps to systems programming and customer analytics.
+A showcase of selected software and analytics projects I’ve worked on — from intelligent web applications to systems programming and data-driven analytics.
+
+---
+
+## [🧠 Innocube: Intelligent Survey Analytics Platform](https://serena6688.github.io/serenaintech/software-project/innocube/)
+
+<img src="/serenaintech/assets/images/innocube.png" alt="Innocube dashboard screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
+
+**Description:**  
+A full-stack data intelligence platform that transforms raw survey results into interactive analytics dashboards — powered by AI, data visualization, and automation.  
+Built with Flask, SQLAlchemy, and Chart.js, Innocube automatically processes Excel uploads, cleans data, and visualizes demographics, purchasing power, and brand preference insights in real time.
+
+<div style="clear: both;"></div>
 
 ---
 
