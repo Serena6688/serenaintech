@@ -7,7 +7,7 @@ permalink: /software-project/innocube/
 ---
 
 # 🧠 Innocube: Intelligent Survey Analytics Platform
-<img src="/serenaintech/assets/images/innocube.png" alt="Innocube screenshot" style="width: auto; max-height: 300px; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/innocube_demo.png" alt="Innocube screenshot" style="width: auto; max-height: 300px; margin: 0 1.5rem 1rem 0;" />
 
 A full-stack data intelligence platform that transforms raw survey results into interactive analytics dashboards — powered by AI, data visualization, and automation.
 
@@ -71,7 +71,7 @@ Innocube’s analytics engine automatically:
 ## 🔗 GitHub Repository
 
 Explore the full implementation and documentation on GitHub:  
-[👉 View on GitHub](https://github.com/Serena6688/innocube2)
+[👉 View on GitHub](https://github.com/Serena6688/innocube_full_stack_project)
 
 ---
 
