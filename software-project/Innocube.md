@@ -1,5 +1,5 @@
 ---
-title: Innocube: Intelligent Survey Analytics Platform
+title: Survey Platform
 parent: Projects
 layout: default
 nav_order: 4
