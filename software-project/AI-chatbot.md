@@ -24,12 +24,14 @@ with selective LLM augmentation, ensuring reliability and preventing dialog drif
 Watch a full walkthrough of the system, including troubleshooting and installation flows:
 
 👉 **YouTube Demo**:
+
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://www.youtube.com/watch?v=-WGu6BZnxb0" 
-          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
+  <iframe 
+    src="https://www.youtube.com/embed/-WGu6BZnxb0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
   </iframe>
 </div>
 ---
