@@ -5,19 +5,23 @@ nav_order: 2
 has_children: true
 permalink: /projects/
 ---
+
 # 💼 Projects
 
-A showcase of selected software and analytics projects I’ve worked on — from intelligent web applications to systems programming and data-driven analytics.
+A showcase of selected software and analytics projects I’ve worked on —  
+from **LLM-assisted systems** and **full-stack platforms** to **machine learning**
+and **systems programming**.
+
 ---
 
-## 🤖 AI-Chatbot (LLM-Assisted Conversational System)
-[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/AI-chatbot/)
+## 🤖 PartSelect Parts Assistant (LLM-Assisted Conversational System)
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/partselect-parts-assistant/)
 
 <img src="/serenaintech/assets/images/partselect.png" alt="PartSelect Parts Assistant screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
-An AI-powered conversational appliance repair assistant focused on dishwashers and refrigerators.  
-The system uses deterministic dialog routing with explicit state machines, and selectively applies an LLM only as a fallback parser for ambiguous natural language — preventing chatbot drift and ensuring reliable troubleshooting.
+An AI-powered conversational appliance repair assistant focused on **dishwashers and refrigerators**.  
+The system uses **deterministic dialog routing with explicit state machines**, and selectively applies an LLM **only as a fallback parser for ambiguous natural language** — preventing chatbot drift and ensuring reliable troubleshooting.
 
 Supports guided diagnostics, part compatibility confirmation, installation guidance, and demo order / human handoff flows.
 
@@ -31,11 +35,12 @@ Supports guided diagnostics, part compatibility confirmation, installation guida
 <img src="/serenaintech/assets/images/nexus.png" alt="Nexus Esports Analytics Platform screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
-An end-to-end full-stack analytics platform for professional esports, enabling
-interactive exploration of Valorant and League of Legends data across players,
+An **end-to-end full-stack analytics platform** for professional esports, enabling
+interactive exploration of **Valorant** and **League of Legends** data across players,
 teams, maps, agents/champions, and match performance.
 
-Built with a React frontend and Node.js + Express backend, backed by SQL-based analytics queries over structured esports datasets.
+Built with a **React frontend** and **Node.js + Express backend**, backed by
+**SQL-based analytics queries** over structured esports datasets.
 
 <div style="clear: both;"></div>
 
@@ -44,19 +49,22 @@ Built with a React frontend and Node.js + Express backend, backed by SQL-based a
 ## 🍽 NYC Dining Safety Prediction (Machine Learning)
 [👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/nyc-dining-safety-prediction/)
 
-<img src="/serenaintech/assets/images/Prediction.png" alt="NYC Dining Safety Prediction screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/nyc_dining.png" alt="NYC Dining Safety Prediction screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
-A machine learning project that predicts NYC restaurant health inspection grades (A / B / C)
-using inspection history, NYC 311 complaints, census data, and neighborhood-level
+A machine learning project that predicts **NYC restaurant health inspection grades (A / B / C)**
+using inspection history, **NYC 311 complaints**, census data, and neighborhood-level
 socioeconomic indicators.
 
-The modeling strategy emphasizes high recall for Grade C (high-risk) restaurants
+The modeling strategy emphasizes **high recall for Grade C (high-risk) restaurants**
 to support proactive public health inspection planning.
 
 <div style="clear: both;"></div>
 
-## [🧠 Innocube: Intelligent Survey Analytics Platform](https://serena6688.github.io/serenaintech/software-project/innocube/)
+---
+
+## 🧠 Innocube: Intelligent Survey Analytics Platform
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/innocube/)
 
 <img src="/serenaintech/assets/images/Innocube_demo.png" alt="Innocube dashboard screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
@@ -68,7 +76,8 @@ Built with Flask, SQLAlchemy, and Chart.js, Innocube automatically processes Exc
 
 ---
 
-## [📊 Customer Targeting](https://serena6688.github.io/serenaintech/data-project/customer-targeting/)
+## 📊 Customer Targeting
+[👉 View Project Page](https://serena6688.github.io/serenaintech/data-project/customer-targeting/)
 
 <img src="/serenaintech/assets/images/Data2-1.png" alt="Customer Targeting picture" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
@@ -79,7 +88,8 @@ Developed an RFM segmentation and clustering engine using Python and scikit-lear
 
 ---
 
-## [🛍️ Omnichannel Expansion](https://serena6688.github.io/serenaintech/data-project/omnichannel-expansion/)
+## 🛍️ Omnichannel Expansion
+[👉 View Project Page](https://serena6688.github.io/serenaintech/data-project/omnichannel-expansion/)
 
 <img src="/serenaintech/assets/images/Data1-1.png" alt="Omnichannel picture" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
@@ -90,33 +100,38 @@ Built a dashboard to track user engagement across e-commerce and retail store to
 
 ---
 
-## [🎮 Othello Game (JavaFX)](https://serena6688.github.io/serenaintech/software-project/othello/)
+## 🎮 Othello Game (JavaFX)
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/othello/)
 
 <img src="/serenaintech/assets/images/othelle.png" alt="Othello picture" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
-An interactive desktop Othello game built in JavaFX. Includes move validation, dark/light theme toggling, AI opponent logic, and celebratory sound effects.
+An interactive desktop Othello game built in JavaFX. Includes move validation, AI opponent logic, dark/light theme toggling, and sound-enhanced gameplay feedback.
 
 <div style="clear: both;"></div>
 
 ---
 
-## [🌐 Multithreaded HTTP Server](https://serena6688.github.io/serenaintech/software-project/http-server/)
+## 🌐 Multithreaded HTTP Server (C++ / POSIX)
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/http-server/)
 
 <img src="/serenaintech/assets/images/httpserver.png" alt="HTTP Server picture" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
-Implemented a C++ HTTP server with multithreading using POSIX sockets. Supports file serving, concurrent requests, and integrates a custom search engine for document indexing.
+A low-level HTTP server implemented in C++ using POSIX sockets and pthreads.  
+Supports concurrent connections, static file serving, and integrates a custom document search engine.
 
 <div style="clear: both;"></div>
 
 ---
 
-## [🧘‍♀️ WeMeditate iOS App](https://serena6688.github.io/serenaintech/software-project/wemeditate/)
+## 🧘‍♀️ WeMeditate iOS App
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/wemeditate/)
 
 <img src="/serenaintech/assets/images/welcome.png" alt="WeMeditate welcome screen" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
-A calming iOS app built with SwiftUI to support guided meditation. Features include session filtering, ambient music player, and animated achievements using Lottie.
+A calming iOS application built with SwiftUI for guided meditation.  
+Features include session filtering, ambient audio playback, and animated achievements using Lottie.
 
 <div style="clear: both;"></div>
