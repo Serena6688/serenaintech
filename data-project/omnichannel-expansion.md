@@ -1,6 +1,6 @@
 ---
 title: Omnichannel Expansion
-parent: Projects
+parent: Data & Machine Learning
 layout: default
 nav_order: 2
 permalink: /data-project/omnichannel-expansion/

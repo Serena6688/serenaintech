@@ -1,7 +1,7 @@
 
 ---
 title: Nexus: Full-Stack Esports Analytics Platform
-parent: Projects
+parent: Intelligent Systems
 layout: default
 nav_order: 6
 permalink: /software-project/nexus-esports-analytics/

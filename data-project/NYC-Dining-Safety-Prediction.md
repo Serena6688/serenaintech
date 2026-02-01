@@ -1,6 +1,6 @@
 ---
 title: NYC Dining Safety Prediction
-parent: Projects
+parent: Data & Machine Learning
 layout: default
 nav_order: 7
 permalink: /software-project/nyc-dining-safety-prediction/

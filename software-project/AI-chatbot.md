@@ -1,6 +1,6 @@
 ---
 title: AI-chatbot
-parent: Projects
+parent: Intelligent Systems
 layout: default
 nav_order: 5
 permalink: /software-project/AI-chatbot/

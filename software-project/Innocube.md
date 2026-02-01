@@ -1,6 +1,6 @@
 ---
 title: Survey Platform
-parent: Projects
+parent: Applications & Games
 layout: default
 nav_order: 4
 permalink: /software-project/innocube/

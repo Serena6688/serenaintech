@@ -1,6 +1,6 @@
 ---
 title: Http Server
-parent: Projects
+parent: Systems & Infrastructure
 layout: default
 nav_order: 4
 permalink: /software-project/http-server/
