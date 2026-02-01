@@ -1,6 +1,5 @@
-
 ---
-title: Nexus: Full-Stack Esports Analytics Platform
+title: Full-Stack Esports Analytics Platform
 parent: Intelligent Systems
 layout: default
 nav_order: 6
