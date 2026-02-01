@@ -10,14 +10,14 @@ permalink: /projects/
 A showcase of selected software and analytics projects I’ve worked on — from intelligent web applications to systems programming and data-driven analytics.
 ---
 
-## 🤖 PartSelect Parts Assistant (LLM-Assisted Conversational System)
+## 🤖 AI-Chatbot (LLM-Assisted Conversational System)
 [👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/AI-chatbot/)
 
 <img src="/serenaintech/assets/images/partselect.png" alt="PartSelect Parts Assistant screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
-An AI-powered conversational appliance repair assistant focused on **dishwashers and refrigerators**.  
-The system uses **deterministic dialog routing with explicit state machines**, and selectively applies an LLM **only as a fallback parser for ambiguous natural language** — preventing chatbot drift and ensuring reliable troubleshooting.
+An AI-powered conversational appliance repair assistant focused on dishwashers and refrigerators.  
+The system uses deterministic dialog routing with explicit state machines, and selectively applies an LLM only as a fallback parser for ambiguous natural language — preventing chatbot drift and ensuring reliable troubleshooting.
 
 Supports guided diagnostics, part compatibility confirmation, installation guidance, and demo order / human handoff flows.
 
@@ -25,9 +25,40 @@ Supports guided diagnostics, part compatibility confirmation, installation guida
 
 ---
 
+## 🎮 Nexus: Full-Stack Esports Analytics Platform
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/nexus-esports-analytics/)
+
+<img src="/serenaintech/assets/images/nexus.png" alt="Nexus Esports Analytics Platform screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
+
+**Description:**  
+An end-to-end full-stack analytics platform for professional esports, enabling
+interactive exploration of Valorant and League of Legends data across players,
+teams, maps, agents/champions, and match performance.
+
+Built with a React frontend and Node.js + Express backend, backed by SQL-based analytics queries over structured esports datasets.
+
+<div style="clear: both;"></div>
+
+---
+
+## 🍽 NYC Dining Safety Prediction (Machine Learning)
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/nyc-dining-safety-prediction/)
+
+<img src="/serenaintech/assets/images/Prediction.png" alt="NYC Dining Safety Prediction screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
+
+**Description:**  
+A machine learning project that predicts NYC restaurant health inspection grades (A / B / C)
+using inspection history, NYC 311 complaints, census data, and neighborhood-level
+socioeconomic indicators.
+
+The modeling strategy emphasizes high recall for Grade C (high-risk) restaurants
+to support proactive public health inspection planning.
+
+<div style="clear: both;"></div>
+
 ## [🧠 Innocube: Intelligent Survey Analytics Platform](https://serena6688.github.io/serenaintech/software-project/innocube/)
 
-<img src="/serenaintech/assets/images/innocube.png" alt="Innocube dashboard screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
+<img src="/serenaintech/assets/images/Innocube_demo.png" alt="Innocube dashboard screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 **Description:**  
 A full-stack data intelligence platform that transforms raw survey results into interactive analytics dashboards — powered by AI, data visualization, and automation.  

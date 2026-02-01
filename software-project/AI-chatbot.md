@@ -14,6 +14,8 @@ for dishwashers and refrigerators.
 
 Unlike traditional chatbots, this system uses **deterministic dialog routing**
 with **selective LLM augmentation**, ensuring reliability and preventing dialog drift.
+<img src="/serenaintech/assets/images/partselect.png" alt="Innocube screenshot" style="width: auto; max-height: 300px; margin: 0 1.5rem 1rem 0;" />
+
 
 ---
 
@@ -21,9 +23,15 @@ with **selective LLM augmentation**, ensuring reliability and preventing dialog 
 
 Watch a full walkthrough of the system, including troubleshooting and installation flows:
 
-👉 **YouTube Demo**:  
-https://youtu.be/-WGu6BZnxb0
-
+👉 **YouTube Demo**:
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://youtu.be/-WGu6BZnxb0" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
 ---
 
 ## 🔧 Tech Stack
