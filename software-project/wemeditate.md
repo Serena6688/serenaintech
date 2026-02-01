@@ -72,9 +72,9 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 ## ✨ Key Features
 
-- **Guided Meditation Sessions:** Choose from a variety of meditation types and durations to suit your needs.
-- **Daily Companion:** Helps you de-stress, stay mindful, and build long-lasting healthy habits.
-- **Visually Calming Aesthetic:** Designed with a focus on a serene and intuitive user experience.
+- Guided Meditation Sessions: Choose from a variety of meditation types and durations to suit your needs.
+- Daily Companion: Helps you de-stress, stay mindful, and build long-lasting healthy habits.
+- Visually Calming Aesthetic: Designed with a focus on a serene and intuitive user experience.
 
 ---
 

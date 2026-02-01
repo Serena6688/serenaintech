@@ -152,7 +152,7 @@ User input:
 - Groq fallback → `"humming"`
 
 This allows the dialog flow to continue  
-**without granting control of routing decisions to the LLM**.
+without granting control of routing decisions to the LLM.
 
 ---
 

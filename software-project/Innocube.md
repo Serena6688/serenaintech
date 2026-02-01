@@ -24,39 +24,39 @@ The project combines data engineering, Flask-based back-end design, and modern w
 
 ## 🔧 Tech Stack
 
-- **Backend:** Python (Flask, SQLAlchemy, Pandas)
-- **Frontend:** HTML, JavaScript, Chart.js, Bootstrap
-- **Database:** SQLite / PostgreSQL (containerized)
-- **Deployment:** Docker, Docker Compose, Nginx (optional for production)
-- **Data Processing:** Pandas + OpenPyXL for intelligent Excel ingestion
+- Backend: Python (Flask, SQLAlchemy, Pandas)
+- Frontend: HTML, JavaScript, Chart.js, Bootstrap
+- Database: SQLite / PostgreSQL (containerized)
+- Deployment: Docker, Docker Compose, Nginx (optional for production)
+- Data Processing: Pandas + OpenPyXL for intelligent Excel ingestion
 
 ---
 
 ## ⚙️ Core Features
 
-- 📊 **Automated Data Parsing:** Upload raw survey Excel sheets; the app auto-detects demographic, location, and purchasing power fields.
-- 🧩 **Dynamic Dashboard:** Real-time visualizations of age, gender, and purchasing power distributions.
-- 🧠 **Smart Data Cleaning:** Handles mixed-language column names, missing values, and inconsistent data formats.
-- 🌐 **Modular API Architecture:** RESTful endpoints for analytics, survey management, and data export.
-- 🗂️ **Seamless Extensibility:** Easy integration with cloud databases or BI dashboards (e.g., Power BI, Tableau).
+-  Automated Data Parsing: Upload raw survey Excel sheets; the app auto-detects demographic, location, and purchasing power fields.
+-  Dynamic Dashboard: Real-time visualizations of age, gender, and purchasing power distributions.
+-  Smart Data Cleaning: Handles mixed-language column names, missing values, and inconsistent data formats.
+-  Modular API Architecture: RESTful endpoints for analytics, survey management, and data export.
+-  Seamless Extensibility: Easy integration with cloud databases or BI dashboards (e.g., Power BI, Tableau).
 
 ---
 
 ## 💡 System Architecture
 
 The system follows a Model-View-Controller (MVC) architecture:
-- **Model:** SQLAlchemy ORM managing surveys, respondents, and analytics results
-- **View:** Responsive web UI with real-time Chart.js rendering
-- **Controller:** Flask routes handling uploads, parsing, and analytics computation
+- Model: SQLAlchemy ORM managing surveys, respondents, and analytics results
+- View: Responsive web UI with real-time Chart.js rendering
+- Controller: Flask routes handling uploads, parsing, and analytics computation
 
 ---
 
 ## 📈 Data Intelligence
 
 Innocube’s analytics engine automatically:
-- Generates **demographic breakdowns** (Age, Gender, Region)
-- Aggregates **purchasing power** segments into actionable visual insights
-- Supports future extensions like **AI-driven clustering, sentiment analysis**, and **predictive modeling**
+- Generates demographic breakdowns (Age, Gender, Region)
+- Aggregates purchasing power segments into actionable visual insights
+- Supports future extensions like AI-driven clustering, sentiment analysis, and predictive modeling
 
 ---
 

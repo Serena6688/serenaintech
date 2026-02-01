@@ -108,23 +108,18 @@ Client (React)
 
 ## 📂 Project Structure
 
-5500FINALPROJECT/
-│
-├── client/                  # React frontend
-│   └── src/
-│       ├── components/      # Reusable UI components
-│       └── pages/           # Home, Valorant, LoL, Teams, Matches, etc.
-│
-├── server/                  # Backend (Node.js + Express)
-│   ├── sql/                 # SQL analytics queries
-│   ├── routes.js            # API routes
-│   ├── db.js                # Database connection
-│   ├── server.js            # Server entry point
-│   └── .env                 # DB configuration
-│
-├── datasets/                # Esports datasets (Valorant & LoL)
-└── README.md
+**src/**
+- **client/** — React frontend
+  - **components/** — Reusable UI components
+  - **pages/** — Analytics views (Home, Valorant, LoL, Teams, Matches, etc.)
 
+- **server/** — Backend (Node.js + Express)
+  - **sql/** — SQL analytics and aggregation queries
+  - **routes.js** — REST API route definitions
+  - **db.js** — Database connection and query helpers
+  - **server.js** — Backend entry point
+
+- **datasets/** — Structured esports datasets (Valorant & League of Legends)
 ---
 
 ⸻

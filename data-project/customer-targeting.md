@@ -45,10 +45,10 @@ Developed data-driven targeting strategies by analyzing e-commerce user profile 
 
 ## 📈 Methodology Steps
 
-1. **Data Collection** (from Alibaba platform)
-2. **Tag Selection & Segmentation** using Random Forest & K-Means
-3. **Segment Evaluation** via Pearson Correlation Coefficients
-4. **Consumer Profiling** to refine targeting
+1. Data Collection (from Alibaba platform)
+2. Tag Selection & Segmentation using Random Forest & K-Means
+3. Segment Evaluation via Pearson Correlation Coefficients
+4. Consumer Profiling to refine targeting
 
 ---
 
