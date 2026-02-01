@@ -1,3 +1,4 @@
+---
 title: AI-chatbot
 parent: Projects
 layout: default
@@ -153,3 +154,12 @@ src/
 ├─ tools.ts           # demo tools (compatibility, lookup, guides)
 ├─ types.ts           # ChatRequest / ChatResponse / Intent
 
+
+---
+
+## 🔗 GitHub Repository
+
+Explore the source code and documentation for the Othello Game:
+
+[👉 View on GitHub](https://github.com/Serena6688/InstalilyAIcase)
+---
