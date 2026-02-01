@@ -15,10 +15,10 @@ A full-stack data intelligence platform that transforms raw survey results into 
 
 ## 🎯 Project Overview
 
-**Innocube** is a lightweight yet intelligent web application designed to **analyze large-scale consumer survey data** in real time.  
+Innocube is a lightweight yet intelligent web application designed to analyze large-scale consumer survey data in real time.  
 It automatically cleans uploaded Excel files, extracts structured insights, and visualizes demographics, brand preference, and purchasing power distributions — all within an interactive dashboard.
 
-The project combines **data engineering, Flask-based back-end design, and modern web visualization**, offering an end-to-end data analytics workflow.
+The project combines data engineering, Flask-based back-end design, and modern web visualization, offering an end-to-end data analytics workflow.
 
 ---
 
@@ -44,7 +44,7 @@ The project combines **data engineering, Flask-based back-end design, and modern
 
 ## 💡 System Architecture
 
-The system follows a **Model-View-Controller (MVC)** architecture:
+The system follows a Model-View-Controller (MVC) architecture:
 - **Model:** SQLAlchemy ORM managing surveys, respondents, and analytics results
 - **View:** Responsive web UI with real-time Chart.js rendering
 - **Controller:** Flask routes handling uploads, parsing, and analytics computation
@@ -93,6 +93,6 @@ Watch the demo walkthrough of Innocube’s intelligent analytics dashboard:
 ## 🌟 Impact
 
 Innocube streamlines consumer insight analysis by reducing manual Excel processing time from hours to minutes.  
-It bridges the gap between **raw data** and **strategic decision-making**, making it ideal for research teams, marketing analysts, and data-driven organizations.
+It bridges the gap between raw data and strategic decision-making, making it ideal for research teams, marketing analysts, and data-driven organizations.
 
 ---

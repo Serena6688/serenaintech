@@ -8,9 +8,9 @@ nav_order: 1
 
 <img src="/serenaintech/assets/images/profile.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 1rem auto;" />
 
-Hi, I'm **Serena Wu**, a graduate student at the **University of Pennsylvania**, where I'm pursuing a Master’s in Computer and Information Technology.
+Hi, I'm Serena Wu, a graduate student at the University of Pennsylvania, where I'm pursuing a Master’s in Computer and Information Technology.
 
-With a foundation in data analytics and a growing passion for software engineering, I thrive at the intersection of data, design, and code. I enjoy building things that are both **functional and human-centered**—from AI-driven games and backend systems to intuitive web apps and data-driven strategies.
+With a foundation in data analytics and a growing passion for software engineering, I thrive at the intersection of data, design, and code. I enjoy building things that are both functional and human-centered—from AI-driven games and backend systems to intuitive web apps and data-driven strategies.
 
 Prior to grad school, I worked as a Data Engineer where I helped businesses optimize marketing strategies through insights and modeling. I’m now expanding my technical toolkit to become a well-rounded engineer capable of tackling end-to-end challenges.
 

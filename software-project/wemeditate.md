@@ -82,9 +82,9 @@ A beautifully crafted iOS app designed to guide you through meditation with calm
 
 We are planning to expand WeMeditate with features like:
 
-- **New Meditation Programs and Daily Challenges**
-- **Wellness Reminders:**  Push notifications for hydration, stretch breaks, and mindfulness prompts.
-- **User Login Functionality:** For personalized experiences and progress tracking.
+- New Meditation Programs and Daily Challenges
+- Wellness Reminders:  Push notifications for hydration, stretch breaks, and mindfulness prompts.
+- User Login Functionality: For personalized experiences and progress tracking.
 
 ---
 ## 🔗 GitHub Repository

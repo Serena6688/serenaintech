@@ -10,20 +10,20 @@ permalink: /software-project/nexus-esports-analytics/
 
 <img src="/serenaintech/assets/images/nexus.png" alt="Nexus Esports Analytics Platform screenshot" style="width: auto; max-height: 300px; margin: 0 1.5rem 1rem 0;" />
 
-An **end-to-end full-stack analytics platform** for professional esports, enabling
-interactive exploration of **Valorant** and **League of Legends** data across players,
+An end-to-end full-stack analytics platform for professional esports, enabling
+interactive exploration of Valorant and League of Legends data across players,
 teams, maps, agents/champions, and match performance.
 
 ---
 
 ## 🎯 Project Overview
 
-Nexus was built to transform **raw esports match data** into **actionable, interactive analytics**
-through a cleanly separated **frontend–backend–data** architecture.
+Nexus was built to transform raw esports match data into actionable, interactive analytics
+through a cleanly separated frontend–backend–data architecture.
 
-The system integrates a **React frontend** with a **Node.js + Express backend**, exposing
-REST APIs backed by **SQL-based analytics queries** over structured esports datasets.
-Users can analyze individual games as well as **cross-game team performance**
+The system integrates a React frontend with a Node.js + Express backend, exposing
+REST APIs backed by SQL-based analytics queries over structured esports datasets.
+Users can analyze individual games as well as cross-game team performance
 within a unified interface.
 
 ---

@@ -8,10 +8,10 @@ permalink: /projects/
 
 # 💼 Projects
 
-I design and build systems across **intelligent applications, full-stack platforms,
-machine learning, and systems infrastructure**.
+I design and build systems across intelligent applications, full-stack platforms,
+machine learning, and systems infrastructure.
 
-My projects emphasize **end-to-end ownership** — from problem formulation and system
+My projects emphasize end-to-end ownership — from problem formulation and system
 architecture to implementation, evaluation, and iteration.
 
 Use the navigation on the left to explore projects by category, or start below for a high-level overview.
@@ -20,10 +20,10 @@ Use the navigation on the left to explore projects by category, or start below f
 
 ## 🤖 Intelligent Systems
 
-Projects that combine **LLM-assisted reasoning**, explicit control logic, and
+Projects that combine LLM-assisted reasoning, explicit control logic, and
 stateful system design to solve real-world problems reliably.
 
-- **PartSelect Parts Assistant**  
+- **AI-Chatbot Assistant**  
   An LLM-assisted conversational system for appliance diagnostics and part compatibility,  
   built with deterministic dialog routing and selective LLM fallback.  
   👉 [View project](/serenaintech/software-project/partselect-parts-assistant/)
@@ -37,7 +37,7 @@ stateful system design to solve real-world problems reliably.
 
 ## 📊 Data & Machine Learning
 
-Projects focused on **predictive modeling, data pipelines, and decision-oriented analytics**.
+Projects focused on predictive modeling, data pipelines, and decision-oriented analytics.
 
 - **NYC Dining Safety Prediction**  
   Machine learning models predicting restaurant inspection risk using NYC public data,  
@@ -57,7 +57,7 @@ Projects focused on **predictive modeling, data pipelines, and decision-oriented
 
 ## 🧠 Applications & Games
 
-User-facing applications emphasizing **interaction design, logic, and UX polish**.
+User-facing applications emphasizing interaction design, logic, and UX polish.
 
 - **Innocube: Intelligent Survey Analytics Platform**  
   A full-stack platform for automated survey ingestion, cleaning, and visualization.  
@@ -75,7 +75,7 @@ User-facing applications emphasizing **interaction design, logic, and UX polish*
 
 ## ⚙️ Systems & Infrastructure
 
-Low-level systems projects focused on **performance, concurrency, and correctness**.
+Low-level systems projects focused on performance, concurrency, and correctness.
 
 - **Multithreaded HTTP Server (C++ / POSIX)**  
   A concurrent HTTP server built from scratch using sockets and pthreads.  

@@ -8,12 +8,12 @@ permalink: /software-project/AI-chatbot/
 
 # 🤖 PartSelect Parts Assistant (LLM-Assisted)
 
-An AI-powered **conversational appliance repair assistant** designed to help users  
-**diagnose issues, confirm part compatibility, and follow correct installation steps**
+An AI-powered conversational appliance repair assistant designed to help users  
+diagnose issues, confirm part compatibility, and follow correct installation steps
 for dishwashers and refrigerators.
 
-Unlike traditional chatbots, this system uses **deterministic dialog routing**
-with **selective LLM augmentation**, ensuring reliability and preventing dialog drift.
+Unlike traditional chatbots, this system uses deterministic dialog routing
+with selective LLM augmentation, ensuring reliability and preventing dialog drift.
 <img src="/serenaintech/assets/images/partselect.png" alt="Innocube screenshot" style="width: auto; max-height: 300px; margin: 0 1.5rem 1rem 0;" />
 
 
@@ -25,7 +25,7 @@ Watch a full walkthrough of the system, including troubleshooting and installati
 
 👉 **YouTube Demo**:
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://youtu.be/-WGu6BZnxb0" 
+  <iframe src="https://www.youtube.com/watch?v=-WGu6BZnxb0" 
           style="position:absolute;top:0;left:0;width:100%;height:100%;" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -73,10 +73,10 @@ Frontend
 
 ### Routing Strategy
 
-- **Deterministic dialog flows** (default)
-- **LLM fallback (Groq)** only when rule-based parsing fails
+- Deterministic dialog flows (default)
+- LLM fallback (Groq) only when rule-based parsing fails
 
-> **Key design principle:**  
+> Key design principle: 
 > The LLM never decides the dialog flow.  
 > It is only used to parse ambiguous natural language when rules fail.
 
@@ -94,7 +94,7 @@ Short or ambiguous replies like:
 - `side`
 - `humming`
 
-are **consumed by the current dialog state**, rather than being reclassified as new intents.
+are consumed by the current dialog state, rather than being reclassified as new intents.
 
 This prevents classic chatbot failures such as:
 
@@ -111,7 +111,7 @@ User: My dishwasher isn’t draining
 User: yes
 User: humming
 
-The system continues the **dishwasher drain diagnostic flow**
+The system continues the dishwasher drain diagnostic flow
 without requiring the user to restate context.
 
 ---
@@ -127,14 +127,14 @@ The router tracks fine-grained awaiting states such as:
 - `clamp_type`
 - `connector_moving_or_stuck`
 
-Each user message is first handled by the **current awaiting state**
+Each user message is first handled by the current awaiting state
 before any re-routing logic is applied.
 
 ---
 
 ## ⚡ Where the LLM Is Used (Intentionally Limited)
 
-The Groq LLM is **not used to “chat”**.
+The Groq LLM is not used to “chat”.
 
 It is only invoked when:
 - The system expects a specific semantic classification
@@ -156,12 +156,11 @@ This allows the dialog flow to continue
 
 ## 📂 Project Structure
 
-src/
-├─ router.ts          # main dialog router & state machine
-├─ groqHelpers.ts     # narrow LLM helpers (classification only)
-├─ tools.ts           # demo tools (compatibility, lookup, guides)
-├─ types.ts           # ChatRequest / ChatResponse / Intent
-
+**src/**
+- **router.ts** — Main dialog router & state machine
+- **groqHelpers.ts** — Narrow LLM helpers (classification only)
+- **tools.ts** — Demo tools (compatibility, lookup, guides)
+- **types.ts** — ChatRequest / ChatResponse / Intent
 
 ---
 

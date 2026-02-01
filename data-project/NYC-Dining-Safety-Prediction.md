@@ -8,10 +8,10 @@ permalink: /software-project/nyc-dining-safety-prediction/
 
 # 🍽 NYC Dining Safety Prediction (Data & ML System)
 
-A data-driven machine learning project that predicts **NYC restaurant health inspection grades (A / B / C)**
-using **public city data**, demographic indicators, and historical inspection records.
+A data-driven machine learning project that predicts NYC restaurant health inspection grades (A / B / C)
+using public city data, demographic indicators, and historical inspection records.
 
-The goal is to **identify high-risk restaurants before inspections occur**, enabling more proactive
+The goal is to identify high-risk restaurants before inspections occur, enabling more proactive
 public health interventions.
 <img src="/serenaintech/assets/images/Prediction.png" alt="Innocube screenshot" style="width: auto; max-height: 300px; margin: 0 1.5rem 1rem 0;" />
 
@@ -19,7 +19,7 @@ public health interventions.
 
 ## 🎯 Project Overview
 
-This project builds an **end-to-end data science pipeline** to predict restaurant inspection outcomes
+This project builds an end-to-end data science pipeline to predict restaurant inspection outcomes
 based on a combination of:
 
 - Restaurant inspection history
@@ -27,8 +27,8 @@ based on a combination of:
 - NYC 311 complaint patterns
 - Geographic and demographic context
 
-The system is designed not just for prediction accuracy, but for **policy-relevant decision making** —
-specifically maximizing **recall for Grade C (high-risk) restaurants**, where missed cases are costly.
+The system is designed not just for prediction accuracy, but for policy-relevant decision making —
+specifically maximizing recall for Grade C (high-risk) restaurants, where missed cases are costly.
 
 ---
 
@@ -72,7 +72,7 @@ specifically maximizing **recall for Grade C (high-risk) restaurants**, where mi
 - **NYC Census Data**  
   Population demographics and neighborhood-level economic indicators
 
-These datasets are joined and aggregated at the **restaurant and geographic level**
+These datasets are joined and aggregated at the restaurant and geographic level
 to construct predictive features.
 
 ---
@@ -81,7 +81,7 @@ to construct predictive features.
 
 ### Feature Selection
 - Correlation analysis to identify redundant signals
-- **Mutual Information (MI)** used to measure feature relevance
+- Mutual Information (MI) used to measure feature relevance
 - Final numeric features include:
   - `complaints_per_capita`
   - `income`
@@ -102,7 +102,7 @@ to construct predictive features.
 The dataset exhibits strong class imbalance, with **Grade C restaurants underrepresented**.
 
 To address this:
-- **SMOTE** (Synthetic Minority Oversampling Technique) is applied
+- SMOTE (Synthetic Minority Oversampling Technique) is applied
 - Balances class distribution during training
 - Enables models to better learn high-risk patterns
 
@@ -118,15 +118,15 @@ Models evaluated include:
 - Neural Network (MLPClassifier)
 
 ### Evaluation Focus
-- Metrics emphasize **recall for Grade C**
+- Metrics emphasize recall for Grade C
 - Goal: catch as many risky restaurants as possible, even at some precision cost
 
 ---
 
 ## 📈 Results Summary
 
-- **Tuned Random Forest** outperformed other models
-- Achieved approximately **80% recall for Grade C restaurants**
+- Tuned Random Forest outperformed other models
+- Achieved approximately 80% recall for Grade C restaurants
 - Consistently stronger than Logistic Regression, XGBoost, and Neural Networks
 - Demonstrated robustness across macro F1 and recall-oriented metrics
 
@@ -134,14 +134,14 @@ Models evaluated include:
 
 ## 🧠 Insights & Interpretation
 
-Model interpretation reveals that **neighborhood-level factors dominate prediction power**:
+Model interpretation reveals that neighborhood-level factors dominate prediction power:
 
 - Income
 - Complaints per capita
 - Census tract
 - Total population
 
-This suggests that **sanitation risk is not random**, but clusters geographically
+This suggests that sanitation risk is not random, but clusters geographically
 and socioeconomically — an important insight for public health planning.
 
 ---
