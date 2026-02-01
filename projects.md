@@ -8,6 +8,20 @@ permalink: /projects/
 # 💼 Projects
 
 A showcase of selected software and analytics projects I’ve worked on — from intelligent web applications to systems programming and data-driven analytics.
+---
+
+## 🤖 PartSelect Parts Assistant (LLM-Assisted Conversational System)
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/AI-chatbot/)
+
+<img src="/serenaintech/assets/images/partselect.png" alt="PartSelect Parts Assistant screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
+
+**Description:**  
+An AI-powered conversational appliance repair assistant focused on **dishwashers and refrigerators**.  
+The system uses **deterministic dialog routing with explicit state machines**, and selectively applies an LLM **only as a fallback parser for ambiguous natural language** — preventing chatbot drift and ensuring reliable troubleshooting.
+
+Supports guided diagnostics, part compatibility confirmation, installation guidance, and demo order / human handoff flows.
+
+<div style="clear: both;"></div>
 
 ---
 
