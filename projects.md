@@ -23,6 +23,15 @@ Use the navigation on the left to explore projects by category, or start below f
 Projects that combine LLM-assisted reasoning, explicit control logic, and
 stateful system design to solve real-world problems reliably.
 
+- **Alinea: Multi-Agent Group Intelligence**
+
+A multi-agent collaboration system built inside secure XMTP group chats.  
+Instead of a single AI response, Alinea orchestrates multiple agent personas (Skeptic, Creative, Pragmatist, Coordinator) that deliberate in structured breakout threads before synthesizing a final recommendation.
+
+Built with XMTP Agent SDK, Convos, and Kilo Gateway to explore human–AI team dynamics in encrypted group environments.
+
+👉 [View project](/software-project/alinea/)
+
 - **AI-Chatbot Assistant**  
   An LLM-assisted conversational system for appliance diagnostics and part compatibility,  
   built with deterministic dialog routing and selective LLM fallback.  

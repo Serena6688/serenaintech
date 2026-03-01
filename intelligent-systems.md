@@ -10,6 +10,19 @@ permalink: /projects/intelligent-systems/
 Projects focused on LLM-assisted reasoning, system control, and end-to-end intelligent workflows.
 ---
 
+## 🧠 Alinea: Multi-Agent Group Intelligence
+[👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/alinea/)
+
+<img src="/serenaintech/assets/images/alinea.png" alt="Alinea multi-agent demo screenshot" style="width: 400px; height: auto; margin: 0 1.5rem 1rem 0;" />
+
+**Description:**  
+A multi-agent collaboration system built inside secure XMTP group chats. Instead of producing a single LLM response, Alinea orchestrates multiple AI personas — Skeptic, Creative, Pragmatist, and Coordinator — to deliberate in structured breakout threads before synthesizing a final recommendation.
+
+The system integrates XMTP Agent SDK, Convos, and Kilo Gateway to explore human–AI collaboration in encrypted, multi-user environments. Designed with deterministic orchestration logic and fixed-round convergence for demo stability.
+
+<div style="clear: both;"></div>
+
+---
 ## 🤖 AI-Chatbot (LLM-Assisted Conversational System)
 [👉 View Project Page](https://serena6688.github.io/serenaintech/software-project/AI-chatbot/)
 
