@@ -22,11 +22,9 @@ The project explores how human–AI collaboration changes when intelligence oper
 
 Short live demo of the multi-agent discussion flow:
 
-👉 **YouTube Demo**:
-
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe 
-    src="https://youtube.com/shorts/BG2BHojoBxs"
+    src="https://www.youtube.com/embed/BG2BHojoBxs"
     style="position:absolute;top:0;left:0;width:100%;height:100%;" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -34,7 +32,6 @@ Short live demo of the multi-agent discussion flow:
   </iframe>
 </div>
 ---
-
 
 ## 🔧 Tech Stack
 
