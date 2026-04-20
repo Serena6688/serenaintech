@@ -39,10 +39,3 @@ A low-level C++ web server built from scratch using POSIX sockets and pthreads.
   <img src="/serenaintech/assets/images/http2.png" alt="HTTP Server picture" style="width: 600px; height: auto; margin: 0 1.5rem 1rem 0;" />
 
 ---
-
-## 🔗 GitHub Repository
-
-Explore the source code and documentation for the Othello Game:
-
-[👉 View on GitHub](https://gitfront.io/r/Serena6688/hzsX5mNJwGBk/Multi-Threaded-HTTP-Server-Search-Engine-C-POSIX/)
----
